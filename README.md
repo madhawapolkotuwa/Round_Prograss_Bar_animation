@@ -1,4 +1,4 @@
-# Round_Prograss_Bar_animation
+# circular progress bar 
 Using PyQt5 animated Round Prograss Bar 
 
 # Video file
